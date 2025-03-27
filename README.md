@@ -11,7 +11,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=#97C4BB&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="polettih" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polettih&show_icons=true&locale=en" alt="polettih" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=polettih&show_icons=true&locale=en](https://camo.githubusercontent.com/ff7bbc21cb3e714bbfad86a14a9ea77c90b1ecd7cfcf14209adc864f31247dc0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d736861646f775f677265656e)" alt="polettih" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=polettih&label=Profile%20views&color=0e75b6&style=flat" alt="polettih" /> </p>
 
