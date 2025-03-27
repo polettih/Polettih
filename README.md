@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">Developer in training, cybersecurity enthusiast from Brazil.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=polettih&label=Profile%20views&color=0e75b6&style=flat" alt="polettih" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polettih" alt="polettih" /></a> </p>
 
@@ -19,4 +19,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=polettih&show_icons=true&locale=en&layout=compact" alt="polettih" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polettih&show_icons=true&locale=en" alt="polettih" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=polettih&label=Profile%20views&color=0e75b6&style=flat" alt="polettih" /> </p>
 
