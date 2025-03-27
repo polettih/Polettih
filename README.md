@@ -5,7 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polettih" alt="polettih" /></a> </p>
 
-<p align="center">- 📫 How to reach me **henrique.poletti@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
